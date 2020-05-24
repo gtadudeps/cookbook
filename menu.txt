@@ -5,3 +5,4 @@ Chicken Tikka Massala
 Guacamole
 Salad
 Chips
+rice
